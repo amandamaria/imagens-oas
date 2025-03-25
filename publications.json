@@ -1,0 +1,154 @@
+{
+    "content": [
+        {
+            "title": "Uso do Git e Trello para Produção Colaborativa de um Material Didático em LaTeX",
+            "year": 2019,
+            "summary": "O presente artigo descreve um relato de experiência acerca do uso das ferramentas tecnológicas Git, Trello e LaTeX para a produção de um material didático para a disciplina de Matemática Elementar (ME), que faz parte do curso de Bacharelado de Tecnologia da Informação da Universidade Federal do Rio Grande do Norte. Será explicado como se deu a integração entre as ferramentas, com ênfase no aspecto colaborativo de sua utilização. Com isso, pretende-se apresentar possíveis serventias dessas tecnologias num contexto colaborativo de produção de textos de ensino.",
+            "authors": "Josenaldo Silva Júnior, Antonio I. S. de Oliveira, Giordano Rodrigues",
+            "link": "https://www.br-ie.org/pub/index.php/wie/article/view/8619/6180",
+            "type": "Artigo resumido",
+            "awarded": false
+        },
+        {
+            "title": "Uso da Khan Academy como Avaliação Continuada em Matemática Elementar",
+            "year": 2019,
+            "summary": "Este artigo apresenta o relato de experiência acerca do uso da plataforma Khan Academy (KA) com o objetivo de auxiliar no processo de aprendizagem dos alunos da disciplina Matemática Elementar do Bacharelado em Tecnologia da Informação (BTI). A metodologia empregada consiste no uso de atividades online da plataforma como uma avaliação continuada ao longo do semestre, utilizando ferramentas da própria KA e da plataforma Obama para recomendar e coletar as notas. Obtiveram-se resultados satisfatórios, tanto para o docente quanto para os alunos, como mais praticidade e agilidade para aplicar o método e uma melhoria no índice de aprovação.",
+            "authors": "Adriana V. M. de Azevedo, Luiza L. T. de Medeiros, Vitor H. C. Bezerra, Antonio I. S. de Oliveira",
+            "link": "https://www.br-ie.org/pub/index.php/wie/article/view/8615/6176",
+            "type": "Artigo resumido",
+            "awarded": false
+        },
+        {
+            "title": "Desenvolvimento de Objetos de Aprendizagem para Matemática: uma Revisão Sistemática de Literatura",
+            "year": 2019,
+            "summary": "O ensino e aprendizagem de Matemática ainda é um grande desafio para educação brasileira. Os Objetos de Aprendizagem (OA) se tornaram uma alternativa para o auxílio dos professores nesta tarefa. Este artigo consiste em uma Revisão Sistemática de Literatura sobre os artigos publicados quanto ao experiências de uso e desenvolvimento de OAs para Matemática. 46 artigos foram selecionados, dos quais foram catalogados por Unidade temática e etapas da Educação Básica. Resultando em uma carência de artigos com a temática de Probabilidade e Estatística, assim como, OAs com público-alvo definido para Educação Infantil.",
+            "authors": "Eli Lima, Dennys Leite Maia",
+            "link": "https://www.br-ie.org/pub/index.php/wie/article/view/8613",
+            "type": "Artigo resumido",
+            "awarded": false
+        },
+        {
+            "title": "Processo de Identificação e Correção de Erros da Plataforma OBAMA",
+            "year": 2019,
+            "summary": "Este artigo descreve as etapas do processo de identificação, análise e correção de erros encontrados assim como testes realizados em uma plataforma colaborativa, citando a importância do processo de teste e correção dos erros para o desenvolvimento de um software educacional, as metodologias adotadas e conclusões feitas pela equipe de desenvolvimento durante um período contínuo de testes e correções. ",
+            "authors": "Vitor Henrique Coelho Bezerra, Gildo Cordeiro Duarte, Jason Willyan Castro do Nascimento, Moisés Oliveira Catônio de Araújo, Dennys Leite Maia",
+            "link": "https://br-ie.org/pub/index.php/wie/article/view/8673/6234",
+            "type": "Artigo resumido",
+            "awarded": false
+        },
+        {
+            "title": "Processo de Desenvolvimento de Uma Ferramenta Destinada à Elaboração de Planos de Aula de Forma Colaborativa",
+            "year": 2018,
+            "summary": "Desenvolver um plano de aula é uma das ações primárias na prática docente. O planejamento oportuniza aos professores traçar objetivos de aprendizagem discente, organizar conteúdos e atividades das aulas e definir os métodos de avaliação. A colaboração entre professores no desenvolvimento de plano de aula pode gerar resultados melhores na construção e qualidade desse documento pedagógico, evitando o trabalho solitário característico de muitos professores. Este trabalho objetiva relatar o processo de concepção e implementação de uma ferramenta colaborativa para a elaboração de planos de aula, inserido em um repositório de objetos de aprendizagem, com vista à contribuir para prática colaborativa de elaboração de planos de aulas.",
+            "authors": "Amanda Maria Domingos de Oliveira, Samuel Dantas Batista, Ítalo Hortiz do Nascimento, Débora Karoline Silva de Azevedo, Rodrigo Rodrigues Melo de Lima, Nelson Ion de Oliveira, Dennys Leite Maia",
+            "link": "http://ceur-ws.org/Vol-2185/CtrlE_2018_paper_118.pdf",
+            "type": "Artigo completo",
+            "awarded": true
+        },
+        {
+            "title": "Metadados de Apps para Matemática: Níveis de Ensino e Descritores de Habilidades",
+            "year": 2018,
+            "summary": "Defronte às dificuldades enfrentadas para a aprendizagem de conceitos Matemáticos muitos recursos são desenvolvidos, inclusive para smartphones. Este trabalho objetiva apresentar o processo de catalogação e classificação de recursos educativos digitais para dispositivos móveis em níveis de ensino e descritores de habilidades incluídos em um repositório, segundo a Prova Brasil, além do processo de curadoria e inserção de novos apps. Foram encontrados 61 novos apps e removidos 17 apps, devido descontinuidade. Como resultados, tivemos 202 apps catalogados no repositório, com aproximadamente ⅓ não se aplicando em nenhum descritor no Ensino Médio e com 151 apps pertencendo aos Anos Finais do Ensino Fundamental.",
+            "authors": "Elvis Medeiros de Melo, Clésia Jordânia Nunes da Costa , Dennys Leite Maia",
+            "link": "http://ceur-ws.org/Vol-2185/CtrlE_2018_paper_27.pdf",
+            "type": "Artigo resumido",
+            "awarded": false
+        },
+        {
+            "title": "Análise de Planos de Aula com Uso de Objetos de Aprendizagem para Matemática",
+            "year": 2018,
+            "summary": "Este artigo tem como objetivo analisar planos aula  para o ensino de Matemática, produzidos por  professores em exercício e alunos das licenciaturas  em Matemática e em Pedagogia, no decorrer de  formações realizadas, ao longo do ano de 2017,  sobre o uso da plataforma Objetos de Aprendizagem  para Matemática (OBAMA). Os participantes eram  vinculados a cinco municípios do Rio Grande do Norte,  totalizando 204 contemplados. Os resultados apontam,  no tocante aos planos válidos, a prevalência da  perspectiva construcionista de uso do OA 58,1%  do total, assim como chama a atenção o fato de 29,5%  do total de planos apresentar os objetivos centrados  no professor e não para o aluno, o que será  analisado mais cuidadosamente em trabalhos  futuros.",
+            "authors": "Ana Cláudia Nunes Silva, Mauro Cavalcante de Souza Filho,  Dennys Leite Maia",
+            "link": "http://ceur-ws.org/Vol-2185/CtrlE_2018_paper_103.pdf",
+            "type": "Artigo resumido"
+        },
+        {
+            "title": "Recursos educativos digitais para Educação  Matemática: um levantamento para dispositivos móveis.",
+            "year": 2017,
+            "summary": "Diante das dificuldades enfrentadas para a apreensão  de conceitos Matemáticos, práticas e recursos são  desenvolvidos. Com a disseminação dos smartphones,  esforços são empreendidos também no  desenvolvimento de recursos educativos para dispositivos  móveis. Este trabalho objetiva apresentar o processo  de busca, catalogação e classificação de recursos  educativos digitais para dispositivos móveis incluídos  em um repositório. Encontramos 184 apps e os  classificamos de acordo com os temas de Matemática  da Prova Brasil. Concluída a classificação, 105 apps  catalogados eram relacionados à Álgebra e 27 não  se aplicavam à nenhuma categoria.",
+            "authors": "MELO, E. M.; COSTA, C. J. N. ; MAIA, D.",
+            "link": "http://ceur-ws.org/Vol-1877/CtrlE2017_AC_40_46.pdf",
+            "type": "Artigo completo"
+        },
+        {
+            "title": "Levantamento e catalogação de objetos de  aprendizagem para Matemática para atualização  de um repositório",
+            "year": 2017,
+            "summary": "Este trabalho relata o processo de levantamento e  catalogação de Objetos de Aprendizagem (OA) para  Matemática como atualização do repositório de  Objetos de Aprendizagem para Matemática (OBAMA).  Para isso, foi realizada uma revisão quanto à   disponibilidade e continuidade dos OA já constantes na   primeira versão do repositório e o levantamento  ecatalogação de novos OA disponíveis em outros  repositórios. Foram catalogados 133 novos OA,  organizados em etapas de ensino da  Educação  Básica. A atualização e catalogação de novos OA   ampliou em cerca de 50% o acervo de OA para  Matemática do repositório, que já contava com 261  OA catalogados por etapa e ensino e tema curricular.",
+            "authors": "OLIVEIRA, Amanda Maria Domingos de; SILVA, Ana Claudia Nunes;  COSTA, Clesia Jordania Nunes da; MAIA, Dennys Leite.",
+            "link": "http://ceur-ws.org/Vol-1877/CtrlE2017_AC_04_119.pdf",
+            "type": "Artigo completo"
+        },
+        {
+            "title": "Objetos de aprendizagem para Matemática: yes we can!",
+            "year": 2017,
+            "summary": "Objetos de aprendizagem (OA) contribuem para  diversificar as práticas de ensino e promover  aprendizagem. Entretanto, é preciso que estes  recursos sejam conhecidos e apropriados pelos  docentes para que possam ser integrados às aulas,   sobretudo em áreas com baixos índices de  proficiência, como é a Matemática. Nesse sentido,  o Projeto Objetos de Aprendizagem  para Matemática  (OBAMA) desenvolveu e atualizou um repositório com  578 OA, do tipo animação e simulação, para trabalhar  conteúdos matemáticos da Educação Básica. Os OA  disponíveis no OBAMA contemplam, além de recursos  para desktop, apps para dispositivos móveis. Para  facilitar a busca e escolha pelos docentes, os OA foram  classificados pelo nível de ensino a qual foram planejados,  temas de conteúdo e habilidades matemáticas, listados  na matriz de descritores da Prova  Brasil.",
+            "authors": "MAIA, D. L. ; OLIVEIRA, A. M. D. ; COSTA, C. J. N. ; MELO, E. M. ;  OLIVEIRA, N. I. ; BRITO, D. T. S. ;BATISTA, S. D. ; SILVA, A. C. N.",
+            "link": " http://ceur-ws.org/Vol-1877/CtrlE2017_MC_10.pdf",
+            "type": "Artigo completo"
+        },
+        {
+            "title": "OBAMA: um Repositório de Objetos de Aprendizagem  para Matemática",
+            "year": 2017,
+            "summary": "Este artigo apresenta o protótipo da segunda versão  do repositório Objetos de Aprendizagem para  Matemática (OBAMA). Atualmente, o OBAMA  2.0 disponibiliza 514 objetos de aprendizagem (OA)  para  Matemática. Os OA acessíveis pelo OBAMA  contemplam tanto dispositivos desktop quanto mobile  e estão classificados considerando aspectos técnicos  e pedagógicos. O OBAMA 2.0 possui sistema de  busca por OA por título, níveis de ensino da Educação  Básica, temas curriculares da Matemática e descritores.  Com essas caracterísitcas, esperamos contribuir para  a prática de professores que ensinam Matemática e  desejam integrar OA em suas práticas de ensino. ",
+            "authors": "Samuel Batista, Rodolfo Carvalho, Amanda Maria Oliveira, Dennys Maia, Nelson Oliveira, Anna Claudia Nunes Silva.",
+            "link": "http://www.br-ie.org/pub/index.php/wcbie/article/view/7400/5196",
+            "type": "Artigo resumido"
+        },
+        {
+            "title": "Reconstrução de um repositório de objetos de  aprendizagem para Matemática",
+            "year": 2017,
+            "summary": "Este artigo propõe relatar o design do processo de  atualização de um repositório de objetos de  aprendizagem para Matemática. O repositório  propõe agregar grandes quantidades de OA que  possam contribuir para a aprendizagem de conceitos  matemáticos. Para isso, definimos a utilização de uma  linguagem de modelagem de projetos para  apresentação da proposta. Foi elaborado um diagrama  de classes, que define os objetos a serem  implementados e um diagrama de caso de uso, que  demonstra os tipos usuários e suas funcionalidades,  com a finalidade planejar e documentar o processo  de desenvolvimento. O repositório encontra-se em  fase de implementação e, futuramente, será testado  em uma formação de professores.",
+            "authors": "BATISTA, S. D. ; OLIVEIRA, A. M. D. ; MELO, E. M. ; BRITO, D. T. S. ;  OLIVEIRA, N. I. ; MAIA, D. L.",
+            "link": "http://ceur-ws.org/Vol-1877/CtrlE2017_AC_05_121.pdf",
+            "type": "Artigo resumido"
+        },
+        {
+            "title": "Avaliação de classificação de recursos educativos  digitais para o ensino e aprendizagem de matemática  para dispositivos móveis.",
+            "year": 2017,
+            "summary": "O uso de Objetos de Aprendizagem (OA) contribui  para diversificar as situações de ensino e  aprendizagem por oportunizar distintas formas de  representar e manipular o pensamento matemático.  Com a disseminação dos smartphones, esforços são  empreendidos também para o desenvolvimento  de recursos educativos para dispositivos móveis que  possa fornecer subsídios para a concepção e  desenvolvimento de ferramentas para a busca e uso  desses recursos. Este trabalho objetiva apresentar o  processo de busca, catalogação e classificação de  recursos educativos digitais para dispositivos móveis  incluídos no repositório de Objetos de Aprendizagem  para Matemática (OBAMA 2.0). Contribuímos com  aspectos pedagógicos para o uso das Tecnologias  Digitais de Informação e Comunicação para  Matemática na reestruturação do OBAMA 2.0, além  de colaborar para uma formação de professores  sobre OA para o ensino de Matemática. Usamos  metodologia quantitativa e qualitativa devido à  natureza dos dados. Catalogamos 134 novos OA  para desktop que foram classificados quanto ao  nível de ensino, blocos de conteúdos e descritores.  Para mobile, encontramos 184 apps e os  classificamos de acordo com os temas de  Matemática da Prova Brasil. A colaboração na  formação de professores com o OBAMA 2.0 foi  importante para a consolidação da pesquisa, assim  como a participação em eventos da área. Dentre os  resultados, encontramos poucos recursos  desenvolvidos para o Tratamento de Informação  em relação à outros temas.",
+            "authors": "MELO, E. M.; COSTA, C. J. N. ; MAIA, D. L.",
+            "link": "http://www.cic.propesq.ufrn.br/anais.php",
+            "type": "Artigo resumido"
+        },
+        {
+            "title": "Reconstrução de um Repositório de Objetos de  Aprendizagem para Matemática",
+            "year": 2017,
+            "summary": "Este trabalho apresenta o processo de reconstrução  de um Repositório de Objetos de Aprendizagem para  Matemática (OBAMA). O repositório OBAMA, desde  sua concepção, busca ser uma fonte para professores  da Educação Básica terem acesso a Objetos de  Aprendizagem (OA) para Matemática. Foi necessária  sua reconstrução para implementação de novas  funcionalidades e melhorias no processo de busca e  apresentação dos OA. O projeto de reconstrução teve  início com o planejamento do OBAMA enquanto software,  a partir de diagramas e projeto de interface gráfica,  seguindo com a definição das tecnologias aserem  utilizadas e então a implementação do que foi definido  para a nova versão do repositório e o teste  diretamente com o público-alvo, professores que  ensinam matemática.",
+            "authors": "OLIVEIRA, A. M. D. ; BATISTA, S. D. ; MAIA, D. L.",
+            "link": "http://arquivos.info.ufrn.br/arquivos/2017007125e7d645406983059147f7ee2/Anais_eCICT_2017.pdf",
+            "type": "Artigo resumido"
+        },
+        {
+            "title": "Atualização e (re)desenvolvimento de um Repositório  de Objetos de Aprendizagem para Matemática (OBAMA)",
+            "year": 2017,
+            "summary": "Este rabalho propõe relatar o processo desenvolvimento  um repositório de objetos de aprendizagem para Matemática.  O repositório foi planejado por meio de uma linguagem de  modelagem de projeto e desenvolvido em Java.  Para documentar o sistema foi elaborado um diagrama  de classes, que define os objetos a serem  implementados e um diagrama de caso de uso,  que demonstra os tipos usuários e suas funcionalidades. O repositório apresenta 514 OA para o ensino da Matemática.",
+            "authors": "BATISTA, S. D. ; OLIVEIRA, A. M. D. ; MAIA, D. L.",
+            "link": "http://arquivos.info.ufrn.br/arquivos/2017007125e7d645406983059147f7ee2/Anais_eCICT_2017.pdf",
+            "type": "Artigo resumido"
+        },
+        {
+            "title": "A inserção de descritores de Tratamento da  Informação na classificação de recursos  educativos digitais de um repositório.",
+            "year": 2017,
+            "summary": "O descritor é uma minúcia de uma habilidade  cognitiva que está relacionado a um conteúdo  estudado em determinada etapa de ensino. O  Tratamento da Informação (TI) trata-se de um  conteúdo da matemática recorrente na vida dos  estudantes que pode ser trabalhado de forma  interdisciplinar. Alinhado à essas ideias, este artigo  tem o objetivo de analisar Objetos de Aprendizagem  disponibilizados em um repositório para o bloco de  conteúdo do TI, usando como base descritores  da Prova Brasil. Dos 330 recursos classificados, 38  foram considerados para TI. Eles foram disponibilizados  em um repositório, o OBAMA, oferecendo ao professor  um recurso mais rico de características. Com a  análise dos resultados, destacamos a pouca  quantidade recursos desenvolvidos e poucos  descritores para atividades específicas do TI.",
+            "authors": "MELO, Elvis Medeiros de ; COSTA, Clesia Jordania Nunes da ;  MAIA, Dennys Leite.",
+            "link": "http://arquivos.info.ufrn.br/arquivos/2017007125e7d645406983059147f7ee2/Anais_eCICT_2017.pdf",
+            "type": "Artigo resumido"
+        },
+        {
+            "title": "Uso do Khan Academy como Avaliação Continuada em Cálculo I",
+            "year": 2018,
+            "summary": "A disciplina de Cálculo I do Bacharelado em Tecnologia da Informação (BTI) costuma apresentar taxas de reprovação elevadas. Com base nesse cenário, a viabilidade e a necessidade da implantação de metodologias auxiliares de abordagem da disciplina tornam-se evidentes. Assim, o uso da plataforma Khan Academy, foco principal deste artigo, e da Monitoria de Cálculo I tem como principal objetivo contribuir para a melhora do processo de aprendizagem dos alunos e, consequentemente, diminuir as taxas de reprovação na disciplina. A metodologia empregada consiste no uso de atividades online da plataforma como uma avaliação continuada ao longo do semestre. Obtiveram-se resultados satisfatórios, como o aumento do nível de aprovação após aplicação do método.",
+            "authors": "Antonio Igor Silva de Oliveira, Elvis Medeiros de Melo, Josenaldo Araújo da Silva Junior",
+            "link": "http://www.br-ie.org/pub/index.php/wie/article/view/7906",
+            "type": "Artigo completo"
+        },
+        {
+            "title": "Definição de Critérios Pedagógicos e Técnicos de um Recurso Digital para Validação de Planos de Aula",
+            "year": 2019,
+            "summary": "Este artigo apresenta o percurso traçado por dois grupos de trabalho (GT  de  Desenvolvimento  e  o  GT  Pedagógico),  no  sentido  de  elencar  um referencial teórico-pedagógico e sistemático para implementar um sistema devalidação de planos de aulas na plataforma OBAMA, com o objetivo de difundir entre professores boas práticas pedagógicas.",
+            "authors": "Amanda Maria D. de Oliveira, Clésia Jordania N. da Costa, IvanilkaL. de Azevedo, Vitor Henrique C. Bezerra, Dennys L. Maia",
+            "link": "https://doi.org/10.5753/ctrle.2019.8895",
+            "type": "Artigo completo"
+        }
+    ]
+}
