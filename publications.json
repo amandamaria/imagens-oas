@@ -1,6 +1,42 @@
 {
     "content": [
         {
+            "title": "Cálculo de Porcentagens e Aplicação de Descontos",
+            "year": 2024,
+            "summary": "-",
+            "authors": "-",
+            "link": "",
+            "type": "Sequência de ensino",
+            "awarded": false
+        },
+        {
+            "title": "Desenvolver a compreensão e aplicação dos conceitos matemáticos para resolver problemas práticos de partilha e distribuição de doces",
+            "year": 2024,
+            "summary": "-",
+            "authors": "Jacigleyse de Araújo Miguel",
+            "link": "",
+            "type": "Sequência de ensino",
+            "awarded": false
+        },
+        {
+            "title": "TDICs em uma perpectiva de cultura digital",
+            "year": 2024,
+            "summary": "-",
+            "authors": "Wendell da Silva Julião",
+            "link": "",
+            "type": "Sequência de ensino",
+            "awarded": false
+        },
+        {
+            "title": "Compor e decompor números e adição e subtração",
+            "year": 2024,
+            "summary": "-",
+            "authors": "Francisco Waldson da Silva Oliveira, Francisco de Lima Filho, Maria de Fátima de Paiva, Nila Rafaela Leite de Lima Suzane Sena da Costa",
+            "link": "",
+            "type": "Sequência de ensino",
+            "awarded": false
+        },
+        {
             "title": "Uso do Git e Trello para Produção Colaborativa de um Material Didático em LaTeX",
             "year": 2019,
             "summary": "O presente artigo descreve um relato de experiência acerca do uso das ferramentas tecnológicas Git, Trello e LaTeX para a produção de um material didático para a disciplina de Matemática Elementar (ME), que faz parte do curso de Bacharelado de Tecnologia da Informação da Universidade Federal do Rio Grande do Norte. Será explicado como se deu a integração entre as ferramentas, com ênfase no aspecto colaborativo de sua utilização. Com isso, pretende-se apresentar possíveis serventias dessas tecnologias num contexto colaborativo de produção de textos de ensino.",
